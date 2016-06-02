@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DynamicViewPager">
+        <attr name="row" format="integer"/>
+        <attr name="col" format="integer"/>
+    </declare-styleable>
+</resources>
