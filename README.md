@@ -60,3 +60,6 @@ DynamicPageAdapter constructor paramter:
 
 #Contact
 You can reach me by email nziyouren@gmail.com
+
+#License:
+Apache License, Version 2.0
