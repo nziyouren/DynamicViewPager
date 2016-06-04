@@ -8,7 +8,7 @@
 
 
 ##Screenshot
-<img src="https://raw.githubusercontent.com/nziyouren/DynamicViewPager/master/images/screenshot-1.png" alt="Drawing" width="450px" />
+<img src="https://raw.githubusercontent.com/nziyouren/DynamicViewPager/master/images/screenshot-2.gif" alt="Drawing" width="450px" />
   
   
 
