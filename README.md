@@ -58,6 +58,12 @@ DynamicPageAdapter constructor paramter:
 * R.layout.data_item_content must have a imageview with id "image" and a textview with id "text"
 * Because dynamicviewpager use these ids to find according view
 
+#Download
+###Gradle
+
+compile 'com.happy.widget:dynamicviewpager:0.1.0'
+
+
 #Contact
 You can reach me by email nziyouren@gmail.com
 
