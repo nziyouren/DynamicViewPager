@@ -25,7 +25,7 @@
         />
         
 ###Get view and init data item
-    
+
  
         int size = 30;
         List<DataItem> dataItemList = new ArrayList<>(size);
@@ -61,7 +61,7 @@ DynamicPageAdapter constructor paramter:
 #Download
 ###Gradle
 
-compile 'com.happy.widget:dynamicviewpager:0.1.0'
+    compile 'com.happy.widget:dynamicviewpager:0.1.0'
 
 
 #Contact
