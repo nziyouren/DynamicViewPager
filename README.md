@@ -1,18 +1,18 @@
 # DynamicViewPager
-###It’s a convenient library for creating nine-grid view pager. 
+### It’s a convenient library for creating nine-grid view pager. 
 
-##Feature
+## Feature
 * Specify any row and col count in xml
 * Can be combined with page indicator
 * Less code, easy to use
 
 
-##Screenshot
+## Screenshot
 <img src="https://raw.githubusercontent.com/nziyouren/DynamicViewPager/master/images/screenshot-2.gif" alt="Drawing" width="450px" />
   
   
 
-#How to use?
+# How to use?
 
 ### Declare DynamicViewPager in your layout xml file. You can set row and col count attribute.
 
@@ -24,7 +24,7 @@
         app:row="3"
         />
         
-###Get view and init data item
+### Get view and init data item
 
  
         int size = 30;
@@ -51,21 +51,21 @@
         });
 
     
-###Notice
+### Notice
 DynamicPageAdapter constructor paramter:
 
 * R.layout.data_root must have a gridview with id "grid"
 * R.layout.data_item_content must have a imageview with id "image" and a textview with id "text"
 * Because dynamicviewpager use these ids to find according view
 
-#Download
-###Gradle
+# Download
+### Gradle
 
     compile 'com.happy.widget:dynamicviewpager:0.1.0'
 
 
-#Contact
+# Contact
 You can reach me by email nziyouren@gmail.com
 
-#License:
+# License:
 Apache License, Version 2.0
