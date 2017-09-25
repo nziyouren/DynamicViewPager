@@ -42,7 +42,7 @@
     }
 
     
-###Detect page item click
+### Detect page item click
       mDynamicViewPager.setPageItemClickListener(new DynamicViewPager.OnPageItemClickListener() {
             @Override
             public void onPageItemClick(int page, int position, String tag, DataItem item) {
